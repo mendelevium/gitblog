@@ -5,3 +5,5 @@ dist
 .claude
 CLAUDE.md
 spec.md
+blog.md
+.DS_Store
